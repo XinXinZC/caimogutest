@@ -12,6 +12,6 @@ public class AppTest
 {
     public void testApp() {
         assertTrue(true);
-        App.main(null);
+        App.main(true);
     }
 }
